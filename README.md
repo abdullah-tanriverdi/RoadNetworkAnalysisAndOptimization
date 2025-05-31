@@ -25,21 +25,21 @@ Tüm yol ağları, **benzer cadde genişliğine sahip alanlar** temel alınarak 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul1.png?raw=true" alt="Istanbul" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul1.png?raw=true" alt="Istanbul" width="400"/><br>
       <b>İstanbul</b>
     </td>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona1.png?raw=true" alt="Barcelona" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona1.png?raw=true" alt="Barcelona" width="400"/><br>
       <b>Barcelona</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig1.png?raw=true" alt="Elazig" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig1.png?raw=true" alt="Elazig" width="400"/><br>
       <b>Elazığ</b>
     </td>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai1.png?raw=true" alt="Dubai" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai1.png?raw=true" alt="Dubai" width="400"/><br>
       <b>Dubai</b>
     </td>
   </tr>
@@ -81,21 +81,21 @@ Derece dağılımı, bir ağdaki düğümlerin kaç bağlantıya (kenara) sahip 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul2.png?raw=true" alt="Istanbul" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul2.png?raw=true" alt="Istanbul" width="400"/><br>
       <b>İstanbul</b>
     </td>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona2.png?raw=true" alt="Barcelona" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona2.png?raw=true" alt="Barcelona" width="400"/><br>
       <b>Barcelona</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig2.png?raw=true" alt="Elazig" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig2.png?raw=true" alt="Elazig" width="400"/><br>
       <b>Elazığ</b>
     </td>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai2.png?raw=true" alt="Dubai" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai2.png?raw=true" alt="Dubai" width="400"/><br>
       <b>Dubai</b>
     </td>
   </tr>
@@ -176,21 +176,21 @@ Derece dağılımı, bir ağdaki düğümlerin kaç bağlantıya (kenara) sahip 
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul4.png?raw=true" alt="Istanbul" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul4.png?raw=true" alt="Istanbul" width="400"/><br>
       <b>İstanbul</b>
     </td>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona4.png?raw=true" alt="Barcelona" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona4.png?raw=true" alt="Barcelona" width="400"/><br>
       <b>Barcelona</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig4.png?raw=true" alt="Elazig" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig4.png?raw=true" alt="Elazig" width="400"/><br>
       <b>Elazığ</b>
     </td>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai4.png?raw=true" alt="Dubai" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai4.png?raw=true" alt="Dubai" width="400"/><br>
       <b>Dubai</b>
     </td>
   </tr>
@@ -269,21 +269,21 @@ Bu da, ağın daha **karmaşık ve öngörülemez** olduğunu gösterir.
 <table>
   <tr>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul3.png?raw=true" alt="Istanbul" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul3.png?raw=true" alt="Istanbul" width="400"/><br>
       <b>İstanbul</b>
     </td>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona3.png?raw=true" alt="Barcelona" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona3.png?raw=true" alt="Barcelona" width="400"/><br>
       <b>Barcelona</b>
     </td>
   </tr>
   <tr>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig3.png?raw=true" alt="Elazig" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig3.png?raw=true" alt="Elazig" width="400"/><br>
       <b>Elazığ</b>
     </td>
     <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai3.png?raw=true" alt="Dubai" width="300"/><br>
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai3.png?raw=true" alt="Dubai" width="400"/><br>
       <b>Dubai</b>
     </td>
   </tr>
