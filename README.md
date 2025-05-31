@@ -22,6 +22,19 @@ Tüm yol ağları, **benzer cadde genişliğine sahip alanlar** temel alınarak 
 İncelenen tüm ağlar, **yönlü çoklu grafik (MultiDiGraph)** yapısında modellenmiştir. Bu yapı, özellikle **çok yönlü yolları ve çoklu bağlantı noktalarını** gerçekçi biçimde temsil etmeye olanak tanır.
 
 
+<table>
+  <tr>
+    <td><img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul1.png?raw=true" alt="Istanbul" width="300"/></td>
+    <td><img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona1.png?raw=true" alt="Barcelona" width="300"/></td>
+  </tr>
+  <tr>
+    <td><img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig1.png?raw=true" alt="Elazig" width="300"/></td>
+    <td><img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai1.png?raw=true" alt="Dubai" width="300"/></td>
+  </tr>
+</table>
+
+
+
 
 ## **Analiz Özet Tablosu**
 
