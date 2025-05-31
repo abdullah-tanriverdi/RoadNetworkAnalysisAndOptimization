@@ -416,4 +416,46 @@ Alternatif rotalar planlayarak ve altyapıyı düzenli izleyip güncelleyerek s�
 
 
 
+##  Projede Kullanılan Teknolojiler
+
+###  Python Kütüphaneleri
+
+- **osmnx**  
+  OpenStreetMap verilerini kullanarak yol ağı (graph) verilerini çekmek ve analiz etmek için kullanıldı.  
+  Şehirlerin yol ağları bu kütüphane aracılığıyla indirildi ve grafik yapıları oluşturuldu.
+
+- **networkx**  
+  Grafik (graph) teorisi tabanlı yol ağı analizleri için kullanıldı.  
+  Closeness, Betweenness, PageRank gibi merkeziyet ölçümleri bu kütüphane ile hesaplandı.
+
+- **numpy**  
+  Sayısal hesaplamalar, matris işlemleri ve normalizasyon işlemleri için kullanıldı.
+
+- **pandas**  
+  Verilerin tablo şeklinde düzenlenmesi, analiz sonuçlarının işlenmesi ve karşılaştırmalar için kullanıldı.
+
+- **scipy.stats.entropy**  
+  Yol ağlarındaki derece entropisi hesaplaması için kullanıldı.  
+  Bu, ağın yapısal karmaşıklığını sayısal olarak ifade etmekte önemliydi.
+
+- **python-louvain (`community` modülü)**  
+  Topluluk tespiti (community detection) için kullanıldı.  
+  Louvain algoritması ile şehirlerin modülerlik değerleri ve topluluk yapısı çıkarıldı.
+
+---
+
+###  Görselleştirme ve Harita
+
+- **matplotlib / matplotlib.pyplot**  
+  Yol ağı analizlerinin grafiksel gösterimi için kullanıldı.
+
+- **plotly**  
+  Etkileşimli grafikler ve karşılaştırmalı görselleştirmeler için kullanıldı.  
+
+- **folium**  
+  Harita üzerinde yol ağlarının, önemli kavşakların ve analiz sonuçlarının görselleştirilmesi için kullanıldı.  
+  `MarkerCluster`, `MiniMap`, `MousePosition`, `Fullscreen` gibi eklentilerle haritalar interaktif hale getirildi.
+
+
+
 
