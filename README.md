@@ -24,14 +24,27 @@ Tüm yol ağları, **benzer cadde genişliğine sahip alanlar** temel alınarak 
 
 <table>
   <tr>
-    <td><img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul1.png?raw=true" alt="Istanbul" width="300"/></td>
-    <td><img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona1.png?raw=true" alt="Barcelona" width="300"/></td>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul1.png?raw=true" alt="Istanbul" width="300"/><br>
+      <b>İstanbul</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona1.png?raw=true" alt="Barcelona" width="300"/><br>
+      <b>Barcelona</b>
+    </td>
   </tr>
   <tr>
-    <td><img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig1.png?raw=true" alt="Elazig" width="300"/></td>
-    <td><img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai1.png?raw=true" alt="Dubai" width="300"/></td>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig1.png?raw=true" alt="Elazig" width="300"/><br>
+      <b>Elazığ</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai1.png?raw=true" alt="Dubai" width="300"/><br>
+      <b>Dubai</b>
+    </td>
   </tr>
 </table>
+
 
 
 
@@ -63,6 +76,30 @@ Tüm yol ağları, **benzer cadde genişliğine sahip alanlar** temel alınarak 
 ### 2. **Derece Dağılımı Analizi**
 
 Derece dağılımı, bir ağdaki düğümlerin kaç bağlantıya (kenara) sahip olduğunu gösterir. Bu dağılım, şehirlerin yol ağının ne derece düzenli, planlı veya organik bir yapıya sahip olduğunu anlamada kritik rol oynar.
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul2.png?raw=true" alt="Istanbul" width="300"/><br>
+      <b>İstanbul</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona2.png?raw=true" alt="Barcelona" width="300"/><br>
+      <b>Barcelona</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig2.png?raw=true" alt="Elazig" width="300"/><br>
+      <b>Elazığ</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai2.png?raw=true" alt="Dubai" width="300"/><br>
+      <b>Dubai</b>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -105,6 +142,7 @@ Derece dağılımı, bir ağdaki düğümlerin kaç bağlantıya (kenara) sahip 
 
 **Closeness centrality**, bir düğümün diğer tüm düğümlere olan ortalama uzaklığının tersidir. Bu metrik, bir düğümün ağ genelinde ne kadar **"merkezi" ve ulaşılabilir** olduğunu gösterir. Ortalama closeness değeri, ağın genel erişilebilirliğine dair güçlü bir göstergedir.
 
+
 ####  Closeness Centrality İstatistikleri
 
 | İstatistik | **Elazığ** | **İstanbul** | **Barcelona** | **Dubai** |
@@ -134,6 +172,29 @@ Derece dağılımı, bir ağdaki düğümlerin kaç bağlantıya (kenara) sahip 
 ### 4. **Betweenness Centrality  Analizi**
 
 **Betweenness centrality**, bir düğümün, diğer düğümler arasındaki **en kısa yollar üzerindeki geçiş sayısını** ölçer. Yüksek betweenness değeri, düğümün **kritik bir bağlantı noktası** olduğunu ve ağın genel akışında **önemli rol** oynadığını gösterir.
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul4.png?raw=true" alt="Istanbul" width="300"/><br>
+      <b>İstanbul</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona4.png?raw=true" alt="Barcelona" width="300"/><br>
+      <b>Barcelona</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig4.png?raw=true" alt="Elazig" width="300"/><br>
+      <b>Elazığ</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai4.png?raw=true" alt="Dubai" width="300"/><br>
+      <b>Dubai</b>
+    </td>
+  </tr>
+</table>
 
 #### Betweenness Centrality İstatistikleri
 
@@ -202,6 +263,32 @@ düşük modülerlik ise daha **bütünleşik, bağlantılı** bir yapı sergile
 **Entropi**, bir ağın **yapısal düzensizliğini ve çeşitliliğini** ölçen bir metriktir.  
 Derece dağılımındaki çeşitlilik arttıkça entropi değeri de artar.  
 Bu da, ağın daha **karmaşık ve öngörülemez** olduğunu gösterir.
+
+
+
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul3.png?raw=true" alt="Istanbul" width="300"/><br>
+      <b>İstanbul</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona3.png?raw=true" alt="Barcelona" width="300"/><br>
+      <b>Barcelona</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig3.png?raw=true" alt="Elazig" width="300"/><br>
+      <b>Elazığ</b>
+    </td>
+    <td align="center">
+      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai3.png?raw=true" alt="Dubai" width="300"/><br>
+      <b>Dubai</b>
+    </td>
+  </tr>
+</table>
+
 
 ####  Entropi Değerleri
 
