@@ -22,28 +22,21 @@ Tüm yol ağları, **benzer cadde genişliğine sahip alanlar** temel alınarak 
 İncelenen tüm ağlar, **yönlü çoklu grafik (MultiDiGraph)** yapısında modellenmiştir. Bu yapı, özellikle **çok yönlü yolları ve çoklu bağlantı noktalarını** gerçekçi biçimde temsil etmeye olanak tanır.
 
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul1.png?raw=true" alt="Istanbul" width="400"/><br>
-      <b>İstanbul</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona1.png?raw=true" alt="Barcelona" width="400"/><br>
-      <b>Barcelona</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig1.png?raw=true" alt="Elazig" width="400"/><br>
-      <b>Elazığ</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai1.png?raw=true" alt="Dubai" width="400"/><br>
-      <b>Dubai</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul1.png?raw=true" alt="Istanbul" width="400" />
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona1.png?raw=true" alt="Barcelona" width="400" />
+    <br>
+    <b>İstanbul</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Barcelona</b>
+</p>
+<p align="center">
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig1.png?raw=true" alt="Elazig" width="400" />
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai1.png?raw=true" alt="Dubai" width="400" />
+    <br>
+    <b>Elazığ</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Dubai</b>
+</p>
+
 
 
 
@@ -78,28 +71,21 @@ Tüm yol ağları, **benzer cadde genişliğine sahip alanlar** temel alınarak 
 Derece dağılımı, bir ağdaki düğümlerin kaç bağlantıya (kenara) sahip olduğunu gösterir. Bu dağılım, şehirlerin yol ağının ne derece düzenli, planlı veya organik bir yapıya sahip olduğunu anlamada kritik rol oynar.
 
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul2.png?raw=true" alt="Istanbul" width="400"/><br>
-      <b>İstanbul</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona2.png?raw=true" alt="Barcelona" width="400"/><br>
-      <b>Barcelona</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig2.png?raw=true" alt="Elazig" width="400"/><br>
-      <b>Elazığ</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai2.png?raw=true" alt="Dubai" width="400"/><br>
-      <b>Dubai</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul2.png?raw=true" alt="Istanbul" width="400" />
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona2.png?raw=true" alt="Barcelona" width="400" />
+    <br>
+    <b>İstanbul</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Barcelona</b>
+</p>
+<p align="center">
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig2.png?raw=true" alt="Elazig" width="400" />
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai2.png?raw=true" alt="Dubai" width="400" />
+    <br>
+    <b>Elazığ</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Dubai</b>
+</p>
+
 
 ---
 
@@ -173,28 +159,21 @@ Derece dağılımı, bir ağdaki düğümlerin kaç bağlantıya (kenara) sahip 
 
 **Betweenness centrality**, bir düğümün, diğer düğümler arasındaki **en kısa yollar üzerindeki geçiş sayısını** ölçer. Yüksek betweenness değeri, düğümün **kritik bir bağlantı noktası** olduğunu ve ağın genel akışında **önemli rol** oynadığını gösterir.
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul4.png?raw=true" alt="Istanbul" width="400"/><br>
-      <b>İstanbul</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona4.png?raw=true" alt="Barcelona" width="400"/><br>
-      <b>Barcelona</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig4.png?raw=true" alt="Elazig" width="400"/><br>
-      <b>Elazığ</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai4.png?raw=true" alt="Dubai" width="400"/><br>
-      <b>Dubai</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul4.png?raw=true" alt="Istanbul" width="400" />
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona4.png?raw=true" alt="Barcelona" width="400" />
+    <br>
+    <b>İstanbul</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Barcelona</b>
+</p>
+<p align="center">
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig4.png?raw=true" alt="Elazig" width="400" />
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai4.png?raw=true" alt="Dubai" width="400" />
+    <br>
+    <b>Elazığ</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Dubai</b>
+</p>
+
 
 #### Betweenness Centrality İstatistikleri
 
@@ -266,28 +245,21 @@ Bu da, ağın daha **karmaşık ve öngörülemez** olduğunu gösterir.
 
 
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul3.png?raw=true" alt="Istanbul" width="400"/><br>
-      <b>İstanbul</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona3.png?raw=true" alt="Barcelona" width="400"/><br>
-      <b>Barcelona</b>
-    </td>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig3.png?raw=true" alt="Elazig" width="400"/><br>
-      <b>Elazığ</b>
-    </td>
-    <td align="center">
-      <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai3.png?raw=true" alt="Dubai" width="400"/><br>
-      <b>Dubai</b>
-    </td>
-  </tr>
-</table>
+<p align="center">
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/istanbul3.png?raw=true" alt="Istanbul" width="400" />
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/barcelona3.png?raw=true" alt="Barcelona" width="400" />
+    <br>
+    <b>İstanbul</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Barcelona</b>
+</p>
+<p align="center">
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/elazig3.png?raw=true" alt="Elazig" width="400" />
+    <img src="https://github.com/abdullah-tanriverdi/UrbanRoadNetworkAnalysis/blob/master/ss/dubai3.png?raw=true" alt="Dubai" width="400" />
+    <br>
+    <b>Elazığ</b>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+    <b>Dubai</b>
+</p>
+
 
 
 ####  Entropi Değerleri
@@ -403,10 +375,7 @@ Bu, trafik yönetimini iyileştirir.
 İstanbul’un yüksek closeness  değerini hedeflenmeli.  
 Şehir içindeki tüm bölgelerin birbirine kolayca ulaşabilmesi için yollar arasındaki mesafeleri kısaltılmalı ve yol düğümlerini dengeli dağıtılmalı.
 
-### 6. Esnek ve Dayanıklı Ağlar Oluşturma
-Modülerlik, merkeziyet ve erişilebilirlik kriterlerini dengede tutarak, hem lokal hem de genel ulaşımda esnek ve dayanıklı bir yol altyapısı tasarlanmalı.
-
-### 7. Kritik Noktaları İzleyin ve Güncelleyin
+### 6. Kritik Noktaları İzleyin ve Güncelleyin
 Tıkanıklık riski olan kritik kavşaklar ve ana arterler için öncelikli iyileştirmeler yapılmalı  
 Alternatif rotalar planlayarak ve altyapıyı düzenli izleyip güncelleyerek sürdürülebilir bir sistem kurulmalı.
 
